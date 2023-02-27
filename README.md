@@ -25,5 +25,5 @@ Mean Harm ROC-AUC. Это среднее гармоническое ROC-AUC на
 0,710165
 
 
-##### Статья на habr:
+#### Статья на habr:
 https://habr.com/ru/sandbox/186668/
